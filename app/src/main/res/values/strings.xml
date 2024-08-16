@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactManager App</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
